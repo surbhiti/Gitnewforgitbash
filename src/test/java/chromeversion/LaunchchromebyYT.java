@@ -18,8 +18,7 @@ public class LaunchchromebyYT
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver=new EdgeDriver();
 		driver.get("https://www.google.co.in/");
-//1st push
-		//1st pull
+//my first push
 	}
 
 }
